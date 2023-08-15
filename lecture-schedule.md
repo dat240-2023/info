@@ -5,7 +5,9 @@
 | 34  | 22/08 | Lecture | Glenn    | Course introduction, C# syntax and git        | Suggested reading: chapter 2 and 3 in the C# book                                                                                   |
 |     | 23/08 | Lecture | Glenn    | Typing, Generics, Object Oriented Programming | Suggested reading: chapters 5 and 6 in the C# book.                                                                                 |
 |     | 24/08 | Lab     | Nicolas  | Git, setup QuickFeed, VS code installation and start working on assignment 1 |                                                                                                                                     |                   |
-| 35  |       |         |          | **GAP WEEK**                                  |                                                                                                                                     |                   |
+| 35  | 29/08 | Lecture | TBD    | TBD        | TBD                                                                                   |
+|     | 30/08 | Lecture | TBD    | TBD        | TBD                                                                                   |
+|     | 31/08 | Lab     | Nicolas  | Work on Assignment 1                          |                                                                                                                                     |                   |
 | 36  | 05/09 | Lecture | Glenn    | Object Oriented Programming (continued) TDD   | Suggested reading: chapter 4 in the C# book.                                                                                        |
 |     | 06/09 | Lecture | Glenn    | Using databases                               | Suggested reading: chapters 11 and 12 in the C# book                                                                                |
 |     | 07/09 | Lab     | Nicolas  | Work on Assignment 1                          |                                                                                                                                     |                   |
