@@ -1,47 +1,5 @@
 # Instructions for Submitting a Lab Assignment to QuickFeed
 
-## Note
-
-This file describes the default way of setting up quickfeed. Since quickfeed as of this writing is currently under maintenance, then it is possible to clone the assignments repo first by navigating to a location you want to have the repo in the terminal and running the following commands:
-
-
-```console
-git clone https://github.com/dat240-2023/assignments
-```
-
-Then when you get access to your own repo then run the following commands in a terminal, when the path in the terminal is inside the folder with the .git folder inside:
-
-```console
-git remote set-url origin https://github.com/dat240-2023/{your_github_name}-labs
-git remote set-url --push origin https://github.com/dat240-2023/{your_github_name}-labs
-git remote add labs https://github.com/dat240-2023/assignments
-```
-
-Where you should replace {your_github_name} with the name of your github account, or just use the url provided in the repo.
-
-By typing the command `git remote -v`, then it should look something like: 
-
-```
-origin  https://github.com/dat240-2023/{your_github_name}-labs (fetch)
-origin  https://github.com/dat240-2023/{your_github_name}-labs (push)
-labs https://github.com/dat240-2023/assignments (fetch)
-labs https://github.com/dat240-2023/assignments (push)
-```
-
-This wil reconfigure your repository to point towards the labs repo by default. 
-
-To pull changes from the assignment repo on updates:
-
-```
-git pull labs main
-```
-
-and to push to your labs repo:
-
-```
-git push origin main
-```
-
 ## Setting up git repository
 
 This section give step-by-step instructions on how to submit assignments.
