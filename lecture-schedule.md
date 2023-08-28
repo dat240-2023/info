@@ -5,8 +5,8 @@
 | 34  | 22/08 | Lecture | Glenn    | Course introduction, C# syntax and git        | Suggested reading: chapter 2 and 3 in the C# book                                                                                   |
 |     | 23/08 | Lecture | Glenn    | Typing, Generics, Object Oriented Programming | Suggested reading: chapters 5 and 6 in the C# book.                                                                                 |
 |     | 24/08 | Lab     | Student assistants  | Git, setup QuickFeed, VS code installation and start working on assignment 1 |                                                                                                                                     |                   |
-| 35  | 29/08 | Lecture | Vinay    | TBD        |                                                                                    |
-|     | 30/08 | Lecture | Nicolas    | TBD        |                                                                                    |
+| 35  | 29/08 | Lecture | Vinay    | Programming in the age of AI        |                                                                                    |
+|     | 30/08 | Lecture | Nicolas    | Git and dependency injection        |                                                                                    |
 |     | 31/08 | Lab     | Student assistants  | Work on Assignment 1                          |                                                                                                                                     |                   |
 | 36  | 05/09 | Lecture | Glenn    | Object Oriented Programming (continued) TDD   | Suggested reading: chapter 4 in the C# book.                                                                                        |
 |     | 06/09 | Lecture | Glenn    | Using databases                               | Suggested reading: chapters 11 and 12 in the C# book                                                                                |
