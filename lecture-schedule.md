@@ -37,4 +37,4 @@
 |     | 02/11 | Lab     | Student assistants | **Last lab hours**                                              |                                                       |                   |
 | 45  | 07/11 | Lecture | Glenn              |                                                                 |                                                       |                   |
 |     | 08/11 | Lecture | Glenn              |                                                                 |                                                       |                   |
-|     | 09/11 | Lab     | Student assistants            | **Project due**                                                 |                                                       |                   |
+|     | 28/11 | Lab     | Student assistants            | **Project due**                                                 |                                                       |                   |
