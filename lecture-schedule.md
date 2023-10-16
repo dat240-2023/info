@@ -24,11 +24,9 @@
 |     | 04/10 | Lecture | Glenn              | External events                                                 |                                                       |                   |
 |     | 05/10 | Lab     | Student assistants | Work on Assignment 3                                            |                                                       |                   |
 | 41  | 10/10 | Lecture | Glenn              | Vertical slice architecture                                     |                                                       |                   |
-|     | 11/10 | Lecture | Glenn              |                                                                 |                                                       |                   |
+|     | 11/10 | Lecture | Glenn              | Agile                                                           |                                                       |                   |
 |     | 12/10 | Lab     | Student assistants | Work on Assignment 3                                            |                                                       |                   |
-| 42  | 17/10 | Lecture | TBD                |                                                                 |                                                       |                   |
-|     | 18/10 | Lecture | Glenn              |                                                                 |                                                       |                   |
-|     | 19/10 | Lab     | Student assistants | **Assignment 3 due**                                            |                                                       |                   |
+| 42  | 19/10 | Lab     | Student assistants | **Assignment 3 due**                                            |                                                       |                   |
 | 43  | 24/10 | Lecture | Glenn              |                                                                 |                                                       |                   |
 |     | 25/10 | Lecture | Glenn              |                                                                 |                                                       |                   |
 |     | 26/10 | Lab     | Student assistants | Work on project                                                 |                                                       |                   |
@@ -37,4 +35,6 @@
 |     | 02/11 | Lab     | Student assistants | **Last lab hours**                                              |                                                       |                   |
 | 45  | 07/11 | Lecture | Glenn              |                                                                 |                                                       |                   |
 |     | 08/11 | Lecture | Glenn              |                                                                 |                                                       |                   |
-|     | 28/11 | Lab     | Student assistants            | **Project due**                                                 |                                                       |                   |
+| 46  | 14/11 | Lecture | Glenn              | Project progress meetings                                       |                                                       |                   |
+|     | 15/11 | Lecture | Glenn              | Project progress meetings                                       |                                                       |                   |
+|     | 28/11 | Lab     | Student assistants | **Project due**                                                 |                                                       |                   |
